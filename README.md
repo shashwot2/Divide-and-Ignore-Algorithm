@@ -1,2 +1,2 @@
 # Divide-and-Ignore-Algorithm
-This algorithm divides and ignores the values in an array
+This algorithm divides and randomly gets rid of half of an array
